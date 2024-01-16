@@ -1,11 +1,16 @@
 _repo: A-time-to-die_72662
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72662-h/images/cover.jpg
 creator:
   author:
     agent_name: Calin, Harold
     gutenberg_agent_id: '34867'
     url: http://www.gutenberg.org/2009/agents/34867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72662#A-time-to-die
 gutenberg_issued: '2024-01-08'
 gutenberg_type: Text
 identifiers:
